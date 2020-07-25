@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="./images/banner.png" style="width: 100%">
-</p>
+![aleDsz 👋🏻](https://i.imgur.com/nNHUl1l.png)
 
 - 🔭 I’m currently working on StylistEx
 - 🌱 I’m currently learning Elixir, ReasonML and Dlang
